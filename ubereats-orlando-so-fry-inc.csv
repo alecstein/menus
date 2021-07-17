@@ -1,0 +1,9 @@
+name,price_usd,calories,restaurant_name,identifier,sugars_g,cholesterol_mg,protein_g,fiber_g,fat_g,carbohydrates_g,sodium_mg
+SO FRIES,4.99,,SO FRY INC,"UBEREATS, ORLANDO, FL",,,,,,,
+CHICKEN,7.99,,SO FRY INC,"UBEREATS, ORLANDO, FL",,,,,,,
+COMBO 1,9.99,,SO FRY INC,"UBEREATS, ORLANDO, FL",,,,,,,
+COMBO 2,9.99,,SO FRY INC,"UBEREATS, ORLANDO, FL",,,,,,,
+SODA,0.99,,SO FRY INC,"UBEREATS, ORLANDO, FL",,,,,,,
+WATER,0.99,,SO FRY INC,"UBEREATS, ORLANDO, FL",,,,,,,
+BLUE CHEESE DIP,0.5,,SO FRY INC,"UBEREATS, ORLANDO, FL",,,,,,,
+RANCH DIP,0.5,,SO FRY INC,"UBEREATS, ORLANDO, FL",,,,,,,
